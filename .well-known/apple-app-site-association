@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8TTY9NTDGA.kr.co.ll2016.TheDay.stg",
+        "paths": ["*"],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Matches all routes"
+          }
+        ]
+      }
+    ]
+  }
+}
