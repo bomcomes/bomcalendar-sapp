@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "kr.co.ll2016.theday.stg",
+      "sha256_cert_fingerprints": [
+        "71:46:41:1E:57:05:39:09:8E:39:91:2E:D4:02:BE:7F:ED:6A:3A:13:0B:3E:8B:D4:D8:D7:FD:DD:97:77:DE:92"
+      ]
+    }
+  }
+]
